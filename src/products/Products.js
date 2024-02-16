@@ -327,10 +327,10 @@ export const products = [
   name: 'iphone 15 pro max',
   price: '$1000.99',
   image: require('../../assets/images/iphone15.jpg'),
-  category:'gadget',
+  category:'electronics',
   quantity: '25',
   description: '',
   discount:'5%'
-}
+}g
 
 ];
