@@ -331,6 +331,6 @@ export const products = [
   quantity: '25',
   description: '',
   discount:'5%'
-}g
+}
 
 ];
